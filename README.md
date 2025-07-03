@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**ysafarrasi/ysafarrasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Yasikha Farras 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+🚀 Exploring AI, Computer Vision, IoT & Web Development  <br>
+🎯 Passionate about impactful tech & real-world solutions  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 About Me
+
+I am passionate about AI, Computer Vision, IoT, and developing integrated systems to solve real-world problems. I enjoy working on research, building web-based platforms, and contributing to technology that has social impact.
+
+---
+
+## ⚡ Quick Facts
+
+- 🌱 Currently improving my AI & system integration skills
+- 💡 Interested in Fullstack Web Development & IoT Monitoring
+- 📝 Published research in national accredited journal (SINTA 2)
+- 💻 Always open for collaboration on tech projects
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasikha-farras-ismail)  
+📍 Bandung, Indonesia | ✉️ yasikhafrs@gmail.com
