@@ -26,4 +26,3 @@ I am passionate about AI, Computer Vision, IoT, and developing integrated system
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasikha-farras-ismail)  
-📍 Bandung, Indonesia | ✉️ yasikhafrs@gmail.com
